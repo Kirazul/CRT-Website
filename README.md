@@ -38,7 +38,7 @@ Official website for the Tunisian Red Crescent, a humanitarian organization dedi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/croissant-rouge-tunisien.git
+   git clone https://github.com/Kirazul/CRT-Website.git
    ```
 
 2. Open the project in your code editor
@@ -53,6 +53,9 @@ This project follows a component-based architecture with clean separation of con
 - `styles.css` - Global styling and responsive design rules
 - `script.js` - Interactive elements and dynamic content
 
+## 🌐 Live Demo
+
+View the website at [https://kirazul.github.io/CRT-Website/](https://kirazul.github.io/CRT-Website/)
 
 ## 📸 Screenshots
 
