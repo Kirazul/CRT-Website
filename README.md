@@ -1,21 +1,20 @@
-# Croissant Rouge Tunisien - Website
+# Tunisian Red Crescent Website - School Project
 
 ![Tunisian Red Crescent](./img/logo.png)
 
-## 🌟 Overview
+## 📚 Project Overview
 
-Official website for the Tunisian Red Crescent, a humanitarian organization dedicated to providing emergency assistance, disaster relief, and humanitarian aid. This responsive website serves as a platform for donations, event information, volunteer recruitment, and community engagement.
+This website was developed as a school project for the Web Development course at [Your University/School Name]. The project aims to create an educational representation of the Tunisian Red Crescent organization's website, demonstrating web development skills while promoting awareness of humanitarian efforts.
 
-## ✨ Features
+## 🎯 Learning Objectives
 
-- **Responsive Design**: Fully optimized for all devices and screen sizes
-- **Multilingual Support**: Content available in French with potential for additional languages
-- **Donation System**: Simple and secure interface for making donations
-- **Event Management**: Updated information about upcoming humanitarian events
-- **Volunteer Registration**: Easy process to join the organization
-- **Contact Forms**: Direct communication with the organization
+- Apply responsive web design principles using HTML5, CSS3, and JavaScript
+- Implement Bootstrap framework for mobile-first development
+- Create accessible and user-friendly interfaces
+- Practice version control using Git and GitHub
+- Deploy a static website using GitHub Pages
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -23,53 +22,71 @@ Official website for the Tunisian Red Crescent, a humanitarian organization dedi
 - Bootstrap 5
 - Animate.css
 - Google Fonts
-- Responsive design principles
 
-## 📋 Pages
+## 📋 Project Structure
 
-- **Home**: Introduction to the organization and mission overview
-- **About**: History, values, and achievements of the Tunisian Red Crescent
-- **Donate**: Secure donation platform to support humanitarian efforts
-- **Events**: Calendar of upcoming events and activities
-- **Contact**: Information for reaching out to local chapters and headquarters
-- **Join Club**: Form for volunteer registration and information
+- **Home Page**: Organization introduction and mission statement
+- **About Page**: Background information and educational content
+- **Donate Page**: Simulated donation process
+- **Events Page**: Demonstration of content management
+- **Contact Page**: Form implementation and validation
+- **Join Club Page**: Membership registration example
 
-## 🚀 Installation
+## 👨‍🎓 Project Team
+
+- Student Name: [Your Name]
+- Course: Web Development
+- Instructor: [Instructor Name]
+- Academic Year: 2023-2024
+
+## 🚀 Installation & Setup
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kirazul/CRT-Website.git
    ```
 
-2. Open the project in your code editor
+2. Open the project in your preferred code editor
 
 3. Launch the website by opening `index.html` in your browser
 
-## 💻 Development
+## 💻 Development Notes
 
-This project follows a component-based architecture with clean separation of concerns:
-
+Key files and their purposes:
 - `index.html` - Main entry point and home page
 - `styles.css` - Global styling and responsive design rules
 - `script.js` - Interactive elements and dynamic content
 
 ## 🌐 Live Demo
 
-View the website at [https://kirazul.github.io/CRT-Website/](https://kirazul.github.io/CRT-Website/)
+View the project at [https://kirazul.github.io/CRT-Website/](https://kirazul.github.io/CRT-Website/)
 
-## 📸 Screenshots
+## 📊 Evaluation Criteria
 
-![Home Page](./img/screenshot-home.jpg)
-![Donation Page](./img/screenshot-donate.jpg)
+This project was evaluated based on:
+- Code quality and organization
+- Responsive design implementation
+- Visual design and user experience
+- Semantic HTML structure
+- CSS organization and efficiency
+- JavaScript functionality
+- Git commit history and documentation
 
-## 📄 License
+## 📝 Future Improvements
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+As a learning exercise, several features could be improved in the future:
+- Add backend functionality for form submissions
+- Implement a content management system
+- Add analytics to track user engagement
+- Enhance accessibility features
+- Create additional language options
 
-## 🤝 Contributing
+## 🔗 References & Resources
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- [Bootstrap Documentation](https://getbootstrap.com/docs/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Tunisian Red Crescent Official Website](https://www.croissant-rouge.tn/)
 
-## 📞 Contact
+---
 
-For any questions or suggestions, please reach out to [contact@croissantrouge.tn](mailto:contact@croissantrouge.tn) 
+*This project is for educational purposes only and is not affiliated with the official Tunisian Red Crescent organization.* 
